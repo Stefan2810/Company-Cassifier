@@ -1,4 +1,4 @@
-# Company-Cassifier
+# Company-Classifier
 
 ## Code structure:
 
